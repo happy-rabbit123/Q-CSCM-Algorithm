@@ -13,7 +13,7 @@ Run the following main scripts to reproduce the figures and results in the paper
 
 | Script Name | Reproduces | Description |
 | :--- | :--- | :--- |
-| **`section1.m`** | **Figure 1** | Convergence analysis (Q-CSCM vs. RK4) and CPU time comparison. |
+| **`section1.m`** | **Figure 1** | Convergence and computational efficiency comparison (Q-CSCM vs. Q-LSCM, ERK4, and GL-IRK4). |
 | **`section2.m`** | **Figure 2, 3** | Parametric Floquet stability analysis and Scalar-Vector separation verification. |
 | **`section3_1.m`** | **Figure 4–7** | Nonlinear Riccati oscillator: Phase portraits and perturbation analysis. |
 | **`section3_2.m`** | **Figure 8, 9** | **Heteroclinic Continuation**. Also generates the animation (`heteroclinic_slow.gif`). |
